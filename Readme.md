@@ -14,3 +14,10 @@
 
 ## Doesn't make it slower
 ![time.png](https://bitbucket.org/liftchampion/colorised-norminette/raw/643b75338ea9e29e2abe0c53e30cb19001eb8dad/time.png)
+
+# **Installation guide**
+Just use that command in your terminal:
+`sh -c "$(curl -s https://bitbucket.org/liftchampion/colorised-norminette/raw/b4272f2c2dac52b1da721ae658815c43f64e5cb2/colorised_norm_install_installer.sh)"`
+Then follow the instructions (or just press *Enter*)
+
+If you wish to reinstall/modify/delete script, just use the previous command and choose necessary option
