@@ -6,7 +6,7 @@
 #    By: ggerardy <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/25 18:53:10 by ggerardy          #+#    #+#              #
-#    Updated: 2019/04/28 20:22:31 by ggerardy         ###   ########.fr        #
+#    Updated: 2019/04/28 23:19:24 by ggerardy         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -221,7 +221,6 @@ function read_colors {
 function change_color {
 	NEW_NO_NORM_COLOR=$NO_NORM_COLOR
 	NEW_NORM_COLOR=$NORM_COLOR
-	print_example
 	print_colors
 	echo ""
 	read_colors
