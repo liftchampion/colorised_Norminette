@@ -6,7 +6,7 @@
 #    By: ggerardy <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/25 18:53:10 by ggerardy          #+#    #+#              #
-#    Updated: 2019/04/28 20:13:36 by ggerardy         ###   ########.fr        #
+#    Updated: 2019/04/28 20:22:31 by ggerardy         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -146,7 +146,7 @@ function install_script {
 	cd $TMP_DIRNAME
 	git init --quiet
 	git remote add origin \
-			https://liftchampion@bitbucket.org/liftchampion/scripts.git 2> /dev/null
+			https://liftchampion@bitbucket.org/liftchampion/colorised-norminette.git 2> /dev/null
 	git fetch --quiet
 	git checkout --quiet origin/master -- colorised_norm.sh
 	mv colorised_norm.sh "${DIRNAME}colorised_norm.sh"
