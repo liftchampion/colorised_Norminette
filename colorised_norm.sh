@@ -6,7 +6,7 @@
 #    By: ggerardy <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/25 18:53:10 by ggerardy          #+#    #+#              #
-#    Updated: 2019/04/28 20:18:11 by ggerardy         ###   ########.fr        #
+#    Updated: 2019/04/28 20:34:49 by ggerardy         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -15,6 +15,11 @@
 # Write here color codes you want
 ## You can find codes here: http://www.lihaoyi.com/post/Ansi/Rainbow256.png
 ### Warning! In your terminal colors may differ
+
+# ! better way to change colors:
+#	use installer:
+# curl https://bitbucket.org/liftchampion/colorised-norminette/raw/c81b549a582098ad560583aa7ec58a7a298429b4/colorised_norm_install_installer.sh | bash
+
 NORM_COLOR=29
 NO_NORM_COLOR=202
 
