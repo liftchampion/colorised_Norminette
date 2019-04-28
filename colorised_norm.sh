@@ -6,7 +6,7 @@
 #    By: ggerardy <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/25 18:53:10 by ggerardy          #+#    #+#              #
-#    Updated: 2019/04/28 20:34:49 by ggerardy         ###   ########.fr        #
+#    Updated: 2019/04/28 20:36:20 by ggerardy         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -18,7 +18,7 @@
 
 # ! better way to change colors:
 #	use installer:
-# curl https://bitbucket.org/liftchampion/colorised-norminette/raw/c81b549a582098ad560583aa7ec58a7a298429b4/colorised_norm_install_installer.sh | bash
+# curl https://bitbucket.org/liftchampion/colorised-norminette/raw/c81b549a582098ad560583aa7ec58a7a298429b4/colorised_norm_install_installer.sh | sh
 
 NORM_COLOR=29
 NO_NORM_COLOR=202
