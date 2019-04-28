@@ -6,7 +6,7 @@
 #    By: ggerardy <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/25 18:53:10 by ggerardy          #+#    #+#              #
-#    Updated: 2019/04/28 19:33:19 by ggerardy         ###   ########.fr        #
+#    Updated: 2019/04/28 20:18:11 by ggerardy         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -15,8 +15,8 @@
 # Write here color codes you want
 ## You can find codes here: http://www.lihaoyi.com/post/Ansi/Rainbow256.png
 ### Warning! In your terminal colors may differ
-NORM_COLOR=184
-NO_NORM_COLOR=200
+NORM_COLOR=29
+NO_NORM_COLOR=202
 
 norminette $* | awk -v nc="$NORM_COLOR" -v nnc="$NO_NORM_COLOR" '
 BEGIN {buf = "lol"}
