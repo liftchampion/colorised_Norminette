@@ -6,7 +6,7 @@
 #    By: ggerardy <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/25 18:53:10 by ggerardy          #+#    #+#              #
-#    Updated: 2019/04/28 20:28:39 by ggerardy         ###   ########.fr        #
+#    Updated: 2019/04/28 20:39:27 by ggerardy         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -24,6 +24,6 @@ git remote add origin \
 git fetch --quiet
 git checkout --quiet origin/master -- colorised_norm_install.sh
 cd $MAIN_PWD
-${TMP_PWD}/colorised_norm_install.sh
+exec ${TMP_PWD}/colorised_norm_install.sh
 rm -rf $TMP_DIRNAME
 echo "\x1B[38;5;29mDone!\x1B[0m"
