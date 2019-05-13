@@ -1,13 +1,13 @@
 # **Colorised Norminette**
 
 ## Makes the **Norminette**'s output **prettier** and **easier**
-![main_img](https://bitbucket.org/liftchampion/colorised-norminette/raw/73c899c2ecd1dea6d1fdd2c866c0c03a850135e0/imgs/main.png =100x100)
+![main_img](https://bitbucket.org/liftchampion/colorised-norminette/raw/73c899c2ecd1dea6d1fdd2c866c0c03a850135e0/imgs/main.png?v=4&s=200)
 
 ## **Wide** choice of colors
-![colors_img](https://bitbucket.org/liftchampion/colorised-norminette/raw/73c899c2ecd1dea6d1fdd2c866c0c03a850135e0/imgs/colors.png =200x50)
+![colors_img](https://bitbucket.org/liftchampion/colorised-norminette/raw/73c899c2ecd1dea6d1fdd2c866c0c03a850135e0/imgs/colors.png?s=100)
 
 ## **Nice** and **Easy** installer
-![installer](https://bitbucket.org/liftchampion/colorised-norminette/raw/73c899c2ecd1dea6d1fdd2c866c0c03a850135e0/imgs/installer.png =50x20)
+![installer](https://bitbucket.org/liftchampion/colorised-norminette/raw/73c899c2ecd1dea6d1fdd2c866c0c03a850135e0/imgs/installer.png?s=20)
 
 ## With option to delete/reinstall/change colors
 ![reinstall](https://bitbucket.org/liftchampion/colorised-norminette/raw/73c899c2ecd1dea6d1fdd2c866c0c03a850135e0/imgs/reinstall.png)
