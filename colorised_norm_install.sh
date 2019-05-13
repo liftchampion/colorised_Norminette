@@ -6,7 +6,7 @@
 #    By: ggerardy <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/25 18:53:10 by ggerardy          #+#    #+#              #
-#    Updated: 2019/05/13 14:38:21 by ggerardy         ###   ########.fr        #
+#    Updated: 2019/05/13 15:49:41 by ggerardy         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -205,7 +205,7 @@ function read_colors {
 			read_colors
 		else
 			print_example
-			printf "Comfirm? [Y/n]:"
+			printf "Confirm? [Y/n]:"
 			read Q_RES
 			if [[ "$Q_RES" == "n" ]] || [[ "$Q_RES" == "N" ]]; then
 				read_colors
