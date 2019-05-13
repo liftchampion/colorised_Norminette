@@ -6,7 +6,7 @@
 #    By: ggerardy <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/04/25 18:53:10 by ggerardy          #+#    #+#              #
-#    Updated: 2019/04/28 23:19:24 by ggerardy         ###   ########.fr        #
+#    Updated: 2019/05/13 14:38:21 by ggerardy         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -140,7 +140,6 @@ function rm_prev_alias {
 function install_script {
 	PWD=$(pwd)
 	TMP_DIRNAME=~/.tmp_for_installing_norm_script
-	echo "\x1B[38;5;202mInstallation in progress...\x1B[0m"
 	mkdir -p $TMP_DIRNAME
 	mkdir -p $DIRNAME
 	cd $TMP_DIRNAME
@@ -153,7 +152,6 @@ function install_script {
 	cd $PWD
 	rm -rf $TMP_DIRNAME
 	echo "alias $ALIASNAME='${DIRNAME}colorised_norm.sh'" >> ~/.zshrc
-	echo "\x1B[38;5;29mDone!\x1B[0m"
 }
 
 ##################################  SETTINGS  ####################################
