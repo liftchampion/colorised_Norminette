@@ -1,19 +1,19 @@
 # **Colorised Norminette**
 
 ## Makes the **Norminette**'s output **prettier** and **easier**
-![main_img](https://bitbucket.org/liftchampion/colorised-norminette/raw/99df127f3b75fb27d8ad3986b598891876ffef18/main.png)
+![main_img](https://bitbucket.org/liftchampion/colorised-norminette/raw/73c899c2ecd1dea6d1fdd2c866c0c03a850135e0/imgs/main.png)
 
 ## **Wide** choice of colors
-![colors_img](https://bitbucket.org/liftchampion/colorised-norminette/raw/99df127f3b75fb27d8ad3986b598891876ffef18/colors.png)
+![colors_img](https://bitbucket.org/liftchampion/colorised-norminette/raw/73c899c2ecd1dea6d1fdd2c866c0c03a850135e0/imgs/colors.png)
 
 ## **Nice** and **Easy** installer
-![installer](https://bitbucket.org/liftchampion/colorised-norminette/raw/643b75338ea9e29e2abe0c53e30cb19001eb8dad/installer.png)
+![installer](https://bitbucket.org/liftchampion/colorised-norminette/raw/73c899c2ecd1dea6d1fdd2c866c0c03a850135e0/imgs/installer.png)
 
 ## With option to delete/reinstall/change colors
-![reinstall](https://bitbucket.org/liftchampion/colorised-norminette/raw/643b75338ea9e29e2abe0c53e30cb19001eb8dad/reinstall.png)
+![reinstall](https://bitbucket.org/liftchampion/colorised-norminette/raw/73c899c2ecd1dea6d1fdd2c866c0c03a850135e0/imgs/reinstall.png)
 
 ## Doesn't make it slower
-![time.png](https://bitbucket.org/liftchampion/colorised-norminette/raw/643b75338ea9e29e2abe0c53e30cb19001eb8dad/time.png)
+![time.png](https://bitbucket.org/liftchampion/colorised-norminette/raw/73c899c2ecd1dea6d1fdd2c866c0c03a850135e0/imgs/time.png)
 
 # **Installation guide**
 Just use that command in your terminal:
