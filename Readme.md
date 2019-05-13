@@ -23,3 +23,5 @@ Just use that command in your terminal:
 Then follow the instructions (or just press *Enter*)
 
 If you wish to reinstall/modify/delete script, just use the previous command and choose necessary option
+
+Leave your feedback in Intra: https://forum.intra.42.fr/topics/20818
